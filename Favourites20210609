@@ -95,7 +95,6 @@ http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l02HnSF.jpg" group-title="FAVOURITES",無綫財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="OTHERS",Channel 8 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
