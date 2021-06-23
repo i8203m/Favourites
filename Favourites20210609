@@ -94,3 +94,63 @@ http://livetv.dnsfor.me/channel.10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l02HnSF.jpg" group-title="FAVOURITES",無綫財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="OTHERS",Channel 8 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="OTHERS",Channel 8 (Unlikely)
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTKbtuo.png" group-title="OTHERS",ASTRO AOD HD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="OTHERS",HGTV (Indo)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9njd9z.jpg" group-title="OTHERS",HGTV [ASIA]
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohGPf0r.jpg" group-title="OTHERS",BBC Earth HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
+http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohGPf0r.jpg" group-title="OTHERS",BBC Earth HD (2)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YzM1MzY2ODEtNmRhMC0zMjk1LTgwMDQtNTA5YWM1Yzk4NDdj
+http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYyvdX1.jpg" group-title="OTHERS",BBC Liftstyle
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
+http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYyvdX1.jpg" group-title="OTHERS",BBC Liftstyle (2)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YzM1MzY2ODEtNmRhMC0zMjk1LTgwMDQtNTA5YWM1Yzk4NDdj
+http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="OTHERS",EURONEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YzM1MzY2ODEtNmRhMC0zMjk1LTgwMDQtNTA5YWM1Yzk4NDdj
+http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="OTHERS", Nat Geo People HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
+http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="OTHERS", Nat Geo People (2)
+HD#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YzM1MzY2ODEtNmRhMC0zMjk1LTgwMDQtNTA5YWM1Yzk4NDdj
+http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KbJBjff.jpg" group-title="OTHERS", Dreamworks HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YzM1MzY2ODEtNmRhMC0zMjk1LTgwMDQtNTA5YWM1Yzk4NDdj
+http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
